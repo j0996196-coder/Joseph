@@ -9,8 +9,8 @@ I'm passionate about mathematics, programming, and using technology to solve rea
 🌱 Always learning something new
 
 🛠️ Skills
-Programming
-C
+.Programming
+.C
 
 Mathematics
 Calculus
